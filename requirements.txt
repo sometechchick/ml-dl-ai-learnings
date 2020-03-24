@@ -2,7 +2,7 @@ absl-py==0.7.0
 actionlib==1.11.12
 astor==0.7.1
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.2
 bokeh==1.0.4
 bondpy==1.8.1
 catkin==0.7.8
