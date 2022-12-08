@@ -6,7 +6,7 @@ bleach==3.1.0
 bokeh==1.0.4
 bondpy==1.8.1
 catkin==0.7.8
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 chartify==2.3.5
 colorlover==0.3.0
